@@ -1,0 +1,30 @@
+1. Do itoa - Done
+2. Go through atoi - Done
+3. Do strjoin - Done
+4. ft_split - Done
+5. figure out how different forms of string initialization work. - Done
+
+
+
+FOR FINAL EXAM:-
+
+1. Do itoa 
+2. Go through atoi 
+3. Do strjoin 
+4. ft_split 
+5. Figure out linked list questions too
+6. C11 has advanced programs, it deals with function pointers.
+7. C12 deals with linked lists and structures.
+8. C13 deals with trees.
+9. brainfart question I guess lol.
+
+Structures:
+
+Structures allow us to store different types of data in a single location. 
+
+Think of it like a box which contains all these different data types.
+
+Structures allow us to create arrays which contains multiple different data types essentially.
+
+Structure is a user-defined data type. We define it using the primitive data types like int float char etc.
+
